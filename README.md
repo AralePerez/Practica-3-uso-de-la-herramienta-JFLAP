@@ -271,9 +271,10 @@ Gracias a su interfaz gráfica y a la integración de algoritmos teóricos impor
 ## Autor
 
 Este proyecto fue desarrollado con fines académicos como parte de una práctica de implementación y extensión de simuladores de autómatas finitos.
+
 -Perez Flores Arale
 -Juarez Hipolito Marco Antonio
-- Ivan
+- Roque Villegas Ivan
 
   
 ## Cómo Ejecutar el Programa 
