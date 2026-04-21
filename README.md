@@ -183,6 +183,8 @@ Para ejecutar este programa se necesita lo siguiente:
 
 ## Cómo Ejecutar el Programa (Importante)
 
+Se encuentran todos los archivos necesarios en este drive: https://drive.google.com/file/d/1m3nYWmhGgnHUoMZ-SC0KxOHNIrXe3WD3/view?usp=sharing
+
 ### Opción 1: Desde terminal o consola
 
 1. Descargar o descomprimir la carpeta del proyecto.
