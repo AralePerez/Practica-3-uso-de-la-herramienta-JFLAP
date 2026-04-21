@@ -33,6 +33,9 @@ Extensiones agregadas al simulador
 - Validación de todas las cadenas.
 - Reporte textual exportable.
 
+  <img width="1600" height="960" alt="image" src="https://github.com/user-attachments/assets/14335c2a-7ee7-4854-9b49-67291352c532" />
+
+
 6. Liga y archivo practica en LATEX
    https://es.overleaf.com/read/rhrrtznqvfdd#bb4d3b
 
